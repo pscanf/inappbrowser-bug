@@ -9,3 +9,5 @@ If I navigate away form that page though, it doesn't fire
 anymore.  The `loadstart` one has a strange patter, it fires
 two or three times when I open a popup, then once again if I
 navigate away from the page, then no more.
+
+Platforms: iOS
